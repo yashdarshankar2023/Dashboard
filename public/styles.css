@@ -1,0 +1,35 @@
+
+*{
+    background-color: #f8efe1 ;
+}
+h1{
+    text-align: center;
+    color: orange;
+    margin-top:10px;
+    font-weight: 900;
+    font-size: 60px;
+}
+.title{
+    width: 100%;
+    margin-top: 40px;
+}
+.table{
+    width: 100%;
+    margin-top: 40px;
+
+}
+iframe{
+    width: 90%;
+    margin-left: 5%;
+}
+.place,.chart{
+    display: flex;
+    margin-top: 40px;
+}
+.region, .sector{
+    width: 47%;
+    margin-left: 3%;
+}
+.country , .topic{
+    width: 47%;
+}
